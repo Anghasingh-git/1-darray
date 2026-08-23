@@ -5,7 +5,7 @@ int main(){
      cout<<"enter the size of array"<<endl;
      cin>>n;
      int arr[n];
-     cout<<"enter elements"<<endl;        //linear search
+     cout<<"enter elements"<<endl;        
      for(i=0;i<n;i++){
           
 cin>>arr[i];
